@@ -1,0 +1,16 @@
+name: dart_todo_cli
+description: A sample command-line application.
+version: 1.0.0
+repository: https://github.com/AdiCahyaSaputra/dart-todo-cli
+
+environment:
+  sdk: ^3.3.4
+
+# Add regular dependencies here.
+dependencies:
+  # path: ^1.8.0
+  intl: ^0.19.0
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
